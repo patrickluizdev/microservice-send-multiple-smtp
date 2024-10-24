@@ -1,6 +1,6 @@
 # Microservice Send Multiple SMTP
 
-Este é um microserviço desenvolvido com Express.js para enviar e-mails através de diferentes configurações SMTP. O serviço permite a validação dos dados do e-mail e fornece tratamento de erros para garantir que as requisições sejam processadas adequadamente.
+Este é um microserviço desenvolvido com node.js para enviar e-mails através de diferentes configurações SMTP. O serviço permite a validação dos dados do e-mail e fornece tratamento de erros para garantir que as requisições sejam processadas adequadamente.
 
 ## Tecnologias Utilizadas
 
